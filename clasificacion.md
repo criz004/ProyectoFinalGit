@@ -101,3 +101,4 @@ Aquí se combinan los dos elementos: el jugador debe de seguir el ritmo si quier
 ﾟ。ⁱ ʷⁱˡˡ ᵃˡʷᵃʸˢ ˡᵒᵛᵉ ʸᵒᵘ  
 　ﾟ･｡･ﾟ
 ```
+3. Hola soy Camila, yo antes amaba jugar geometry dash jajaja
