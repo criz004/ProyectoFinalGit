@@ -101,3 +101,5 @@ Aquí se combinan los dos elementos: el jugador debe de seguir el ritmo si quier
 ﾟ。ⁱ ʷⁱˡˡ ᵃˡʷᵃʸˢ ˡᵒᵛᵉ ʸᵒᵘ  
 　ﾟ･｡･ﾟ
 ```
+
+Hola hola, soy **Frida** esta es mi aportacion al archivo.
